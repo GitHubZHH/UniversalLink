@@ -1,0 +1,20 @@
+PODS:
+  - mob_linksdk (2.2.5):
+    - MOBFoundation
+  - MOBFoundation (3.1.6)
+
+DEPENDENCIES:
+  - mob_linksdk
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - mob_linksdk
+    - MOBFoundation
+
+SPEC CHECKSUMS:
+  mob_linksdk: 2b7ce277378874fb386c64acdb6f78ffe4ace14d
+  MOBFoundation: a87c5f11fb87f873337189c3ec0add4d3ec6221a
+
+PODFILE CHECKSUM: fe4202bfecfcb39ae4e5e1afb817e7e156561d2b
+
+COCOAPODS: 1.5.3

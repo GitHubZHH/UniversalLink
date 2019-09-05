@@ -1,0 +1,35 @@
+<html>
+<head>
+
+<meta charset="utf-8">
+</head>
+<body>
+<p>Cyemoe</p>
+
+<script type="text/javascript" src="https://f.moblink.mob.com/3.0.1/moblink.js?appkey=271db5f52372a"></script>
+
+<script>
+MobLink({
+ el: '',
+ path: 'demo/a',
+ params: {
+     key1: 'value1',
+     key2: 'value2',
+ }
+})
+</script>
+
+<script type="text/javascript">
+	function openApp() {
+		// body...
+		alert('123')
+		// window.location="https://baidu.com"
+		window.location.href = 'UniversalLinkDev://'
+
+	}
+
+</script>
+
+<button onclick="openApp()" height='250'> 打开应用 </button>
+</body>
+</heml>
