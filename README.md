@@ -3,7 +3,8 @@
 ### 一、Demo
 代码运行步骤：  
 1、先运行 [UniversalLinkDev](./UniversalLinkDev)，如果报错，执行 `pod updaate`. （类似我们的 App）  
-2、再运行 [HTMLDev](./HTMLDevZhihu) ，弄了两个 `#error` , 注释即可。 （类似在微信访问我们的 App 网页）  
+2、再运行 [HTMLDev](./HTMLDevZhihu) ，弄了两个 `#error` , 注释即可。 （类似在微信访问我们的 App 网页）   
+3、测试网页简单实现[UniversalLinkDev.html](./HTMLDevZhihu/HTMLDev/HTML/UniversalLinkDev.html) 
 
 ### 二、借助
 [Mob 平台](http://www.mob.com/) 简单实现  
